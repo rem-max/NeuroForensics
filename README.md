@@ -1,4 +1,4 @@
-# NeuroForensics: An Endogenous Defense Of Covert Federated Learning Backdoor Threats
+# NeuroForensics: Unmasking Covert Backdoor Attack via Endogenous Defense
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-FL%20Security%20%26%20Defense-green.svg)
